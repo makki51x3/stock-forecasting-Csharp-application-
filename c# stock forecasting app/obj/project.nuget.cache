@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gEynwWRuxK+RButcUPPTytBifOPe1Y07f64D4BWJ/aXQX6kqe1vsm2GI7+kKX98H2x3h1dFNbfPtpj0S6P7nLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1999m\\Desktop\\PROTOFOLIO\\amin kanouh\\stock prediction ML.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1999m\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
